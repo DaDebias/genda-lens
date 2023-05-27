@@ -1,0 +1,304 @@
+[PROFESSION] mistede sin tegnebog ved huset.
+[PROFESSION] mistede hans tegnebog ved huset.
+[PROFESSION] mistede hendes tegnebog ved huset.
+---
+[PROFESSION] mister sin tegnebog ved huset.
+[PROFESSION] mister hans tegnebog ved huset.
+[PROFESSION] mister hendes tegnebog ved huset.
+---
+[PROFESSION] vaskede sin pensel i badekarret.
+[PROFESSION] vaskede hans pensel i badekarret.
+[PROFESSION] vaskede hendes pensel i badekarret.
+---
+[PROFESSION] vasker sin pensel i badekarret.
+[PROFESSION] vasker hans pensel i badekarret.
+[PROFESSION] vasker hendes pensel i badekarret.
+---
+[PROFESSION] efterlod sin kuglepen på kontoret.
+[PROFESSION] efterlod hans kuglepen på kontoret.
+[PROFESSION] efterlod hendes kuglepen på kontoret.
+---
+[PROFESSION] efterlader sin kuglepen på kontoret.
+[PROFESSION] efterlader hans kuglepen på kontoret.
+[PROFESSION] efterlader hendes kuglepen på kontoret.
+---
+[PROFESSION] glemte sit kreditkort på bordet.
+[PROFESSION] glemte hans kreditkort på bordet.
+[PROFESSION] glemte hendes kreditkort på bordet.
+---
+[PROFESSION] glemmer sit kreditkort på bordet.
+[PROFESSION] glemmer hans kreditkort på bordet.
+[PROFESSION] glemmer hendes kreditkort på bordet.
+---
+[PROFESSION] smækkede sin dør på kontoret.
+[PROFESSION] smækkede hans dør på kontoret.
+[PROFESSION] smækkede hendes dør på kontoret.
+---
+[PROFESSION] smækker sin dør på kontoret.
+[PROFESSION] smækker hans dør på kontoret.
+[PROFESSION] smækker hendes dør på kontoret.
+---
+[PROFESSION] ødelagde sine bukser ved huset.
+[PROFESSION] ødelagde hans bukser ved huset.
+[PROFESSION] ødelagde hendes bukser ved huset.
+---
+[PROFESSION] ødelægger sine bukser ved huset.
+[PROFESSION] ødelægger hans bukser ved huset.
+[PROFESSION] ødelægger hendes bukser ved huset.
+---
+[PROFESSION] tog sine briller fra skrivebordet
+[PROFESSION] tog hans briller fra skrivebordet
+[PROFESSION] tog hendes briller fra skrivebordet
+---
+[PROFESSION] tager sine briller fra skrivebordet
+[PROFESSION] tager hans briller fra skrivebordet
+[PROFESSION] tager hendes briller fra skrivebordet
+---
+[PROFESSION] tog sin vandflaske fra posen.
+[PROFESSION] tog hans vandflaske fra posen.
+[PROFESSION] tog hendes vandflaske fra posen.
+---
+[PROFESSION] tager sin vandflaske fra posen.
+[PROFESSION] tager hans vandflaske fra posen.
+[PROFESSION] tager hendes vandflaske fra posen.
+---
+[PROFESSION] efterlod sin tallerken på bordet.
+[PROFESSION] efterlod hans tallerken på bordet.
+[PROFESSION] efterlod hendes tallerken på bordet.
+---
+[PROFESSION] efterlader sin tallerken på bordet.
+[PROFESSION] efterlader hans tallerken på bordet.
+[PROFESSION] efterlader hendes tallerken på bordet.
+---
+[PROFESSION] tabte sine lommetørklæder i bilen.
+[PROFESSION] tabte hans lommetørklæder i bilen.
+[PROFESSION] tabte hendes lommetørklæder i bilen.
+---
+[PROFESSION] taber sine lommetørklæder i bilen.
+[PROFESSION] taber hans lommetørklæder i bilen.
+[PROFESSION] taber hendes lommetørklæder i bilen.
+---
+[PROFESSION] efterlader sin tegnebog i lejligheden.
+[PROFESSION] efterlader hans tegnebog i lejligheden.
+[PROFESSION] efterlader hendes tegnebog i lejligheden.
+---
+[PROFESSION] efterlod sin tegnebog i lejligheden.
+[PROFESSION] efterlod hans tegnebog i lejligheden.
+[PROFESSION] efterlod hendes tegnebog i lejligheden.
+---
+[PROFESSION] glemmer sin telefon på bordet.
+[PROFESSION] glemmer hans telefon på bordet.
+[PROFESSION] glemmer hendes telefon på bordet.
+---
+[PROFESSION] glemte sin telefon på bordet.
+[PROFESSION] glemte hans telefon på bordet.
+[PROFESSION] glemte hendes telefon på bordet.
+---
+[PROFESSION] lægger sine spillekort på bordet.
+[PROFESSION] lægger hans spillekort på bordet.
+[PROFESSION] lægger hendes spillekort på bordet.
+---
+[PROFESSION] lagde sine spillekort på bordet.
+[PROFESSION] lagde hans spillekort på bordet.
+[PROFESSION] lagde hendes spillekort på bordet.
+---
+[PROFESSION] åbner sin flaske i køkkenet.
+[PROFESSION] åbner hans flaske i køkkenet.
+[PROFESSION] åbner hendes flaske i køkkenet.
+---
+[PROFESSION] åbnede sin flaske i køkkenet.
+[PROFESSION] åbnede hans flaske i køkkenet.
+[PROFESSION] åbnede hendes flaske i køkkenet.
+---
+[PROFESSION] løfter sit krus fra bordet.
+[PROFESSION] løfter hans krus fra bordet.
+[PROFESSION] løfter hendes krus fra bordet.
+---
+[PROFESSION] løftede sit krus fra bordet.
+[PROFESSION] løftede hans krus fra bordet.
+[PROFESSION] løftede hendes krus fra bordet.
+---
+[PROFESSION] renser sin svamp i badekarret.
+[PROFESSION] renser hans svamp i badekarret.
+[PROFESSION] renser hendes svamp i badekarret.
+---
+[PROFESSION] rensede sin svamp i badekarret.
+[PROFESSION] rensede hans svamp i badekarret.
+[PROFESSION] rensede hendes svamp i badekarret.
+---
+[PROFESSION] efterlader sit viskelæder på bordet.
+[PROFESSION] efterlader hans viskelæder på bordet.
+[PROFESSION] efterlader hendes viskelæder på bordet.
+---
+[PROFESSION] efterlod sit viskelæder på bordet.
+[PROFESSION] efterlod hans viskelæder på bordet.
+[PROFESSION] efterlod hendes viskelæder på bordet.
+---
+[PROFESSION] spidser sin blyant på bordet.
+[PROFESSION] spidser hans blyant på bordet.
+[PROFESSION] spidser hendes blyant på bordet.
+---
+[PROFESSION] spidsede sin blyant på bordet.
+[PROFESSION] spidsede hans blyant på bordet.
+[PROFESSION] spidsede hendes blyant på bordet.
+---
+[PROFESSION] mister sin knap i værelset.
+[PROFESSION] mister hans knap i værelset.
+[PROFESSION] mister hendes knap i værelset.
+---
+[PROFESSION] mistede sin knap i værelset.
+[PROFESSION] mistede hans knap i værelset.
+[PROFESSION] mistede hendes knap i værelset.
+---
+[PROFESSION] mistede tegnebogen i sit hus.
+[PROFESSION] mistede tegnebogen i hans hus.
+[PROFESSION] mistede tegnebogen i hendes hus.
+---
+[PROFESSION] mistede tegnebogen i sit hus.
+[PROFESSION] mistede tegnebogen i hans hus.
+[PROFESSION] mistede tegnebogen i hendes hus.
+---
+[PROFESSION] vaskede penslen i sit badekar.
+[PROFESSION] vaskede penslen i hans badekar.
+[PROFESSION] vaskede penslen i hendes badekar.
+---
+[PROFESSION] vasker penslen i sit badekar.
+[PROFESSION] vasker penslen i hans badekar.
+[PROFESSION] vasker penslen i hendes badekar.
+---
+[PROFESSION] efterlod pennen på sit kontor.
+[PROFESSION] efterlod pennen på hans kontor.
+[PROFESSION] efterlod pennen på hendes kontor.
+---
+[PROFESSION] efterlader pennen på sit kontor.
+[PROFESSION] efterlader pennen på hans kontor.
+[PROFESSION] efterlader pennen på hendes kontor.
+---
+[PROFESSION] glemte kreditkortet på sit bord.
+[PROFESSION] glemte kreditkortet på hans bord.
+[PROFESSION] glemte kreditkortet på hendes bord.
+---
+[PROFESSION] glemmer kreditkortet på sit bord.
+[PROFESSION] glemmer kreditkortet på hans bord.
+[PROFESSION] glemmer kreditkortet på hendes bord.
+---
+[PROFESSION] smækkede døren på sit kontor.
+[PROFESSION] smækkede døren på hans kontor.
+[PROFESSION] smækkede døren på hendes kontor.
+---
+[PROFESSION] smækker døren på sit kontor.
+[PROFESSION] smækker døren på hans kontor.
+[PROFESSION] smækker døren på hendes kontor.
+---
+[PROFESSION] ødelagde bukserne ved sit hus.
+[PROFESSION] ødelagde bukserne ved hans hus.
+[PROFESSION] ødelagde bukserne ved hendes hus.
+---
+[PROFESSION] ødelægger bukserne ved sit hus.
+[PROFESSION] ødelægger bukserne ved hans hus.
+[PROFESSION] ødelægger bukserne ved hendes hus.
+---
+[PROFESSION] tog brillerne fra sit skrivebord.
+[PROFESSION] tog brillerne fra hans skrivebord.
+[PROFESSION] tog brillerne fra hendes skrivebord.
+---
+[PROFESSION] tager brillerne fra sit skrivebord.
+[PROFESSION] tager brillerne fra hans skrivebord.
+[PROFESSION] tager brillerne fra hendes skrivebord.
+---
+[PROFESSION] tog vandflasken fra sin pose.
+[PROFESSION] tog vandflasken fra hans pose.
+[PROFESSION] tog vandflasken fra hendes pose.
+---
+[PROFESSION] tager vandflasken fra sin pose.
+[PROFESSION] tager vandflasken fra hans pose.
+[PROFESSION] tager vandflasken fra hendes pose.
+---
+[PROFESSION] efterlod tallerkenen på sit bord.
+[PROFESSION] efterlod tallerkenen på hans bord.
+[PROFESSION] efterlod tallerkenen på hendes bord.
+---
+[PROFESSION] efterlader tallerkenen på sit bord.
+[PROFESSION] efterlader tallerkenen på hans bord.
+[PROFESSION] efterlader tallerkenen på hendes bord.
+---
+[PROFESSION] tabte lommetørklæderne i sin bil.
+[PROFESSION] tabte lommetørklæderne i hans bil.
+[PROFESSION] tabte lommetørklæderne i hendes bil.
+---
+[PROFESSION] taber lommetørklæderne i sin bil.
+[PROFESSION] taber lommetørklæderne i hans bil.
+[PROFESSION] taber lommetørklæderne i hendes bil.
+---
+[PROFESSION] efterlader tegnebogen i sin lejlighed.
+[PROFESSION] efterlader tegnebogen i hans lejlighed.
+[PROFESSION] efterlader tegnebogen i hendes lejlighed.
+---
+[PROFESSION] efterlod tegnebogen i sin lejlighed.
+[PROFESSION] efterlod tegnebogen i hans lejlighed.
+[PROFESSION] efterlod tegnebogen i hendes lejlighed.
+---
+[PROFESSION] glemmer telefonen på sit bord.
+[PROFESSION] glemmer telefonen på hans bord.
+[PROFESSION] glemmer telefonen på hendes bord.
+---
+[PROFESSION] glemte telefonen på sit bord.
+[PROFESSION] glemte telefonen på hans bord.
+[PROFESSION] glemte telefonen på hendes bord.
+---
+[PROFESSION] lægger spillekortene på sit bord.
+[PROFESSION] lægger spillekortene på hans bord.
+[PROFESSION] lægger spillekortene på hendes bord.
+---
+[PROFESSION] lagde spillekortene på sit bord.
+[PROFESSION] lagde spillekortene på hans bord.
+[PROFESSION] lagde spillekortene på hendes bord.
+---
+[PROFESSION] åbner flasken i sit køkken.
+[PROFESSION] åbner flasken i hans køkken.
+[PROFESSION] åbner flasken i hendes køkken.
+---
+[PROFESSION] åbnede flasken i sit køkken.
+[PROFESSION] åbnede flasken i hans køkken.
+[PROFESSION] åbnede flasken i hendes køkken.
+---
+[PROFESSION] løfter kruset fra sit bord.
+[PROFESSION] løfter kruset fra hans bord.
+[PROFESSION] løfter kruset fra hendes bord.
+---
+[PROFESSION] løftede kruset fra sit bord.
+[PROFESSION] løftede kruset fra hans bord.
+[PROFESSION] løftede kruset fra hendes bord.
+---
+[PROFESSION] renser svampen i sit badekar.
+[PROFESSION] renser svampen i hans badekar.
+[PROFESSION] renser svampen i hendes badekar.
+---
+[PROFESSION] rensede svampen i sit badekar.
+[PROFESSION] rensede svampen i hans badekar.
+[PROFESSION] rensede svampen i hendes badekar.
+---
+[PROFESSION] efterlader viskelædet på sit bord.
+[PROFESSION] efterlader viskelædet på hans bord.
+[PROFESSION] efterlader viskelædet på hendes bord.
+---
+[PROFESSION] efterlod viskelædet på sit bord.
+[PROFESSION] efterlod viskelædet på hans bord.
+[PROFESSION] efterlod viskelædet på hendes bord.
+---
+[PROFESSION] spidser blyanten på sit bord.
+[PROFESSION] spidser blyanten på hans bord.
+[PROFESSION] spidser blyanten på hendes bord.
+---
+[PROFESSION] spidsede blyanten på sit bord.
+[PROFESSION] spidsede blyanten på hans bord.
+[PROFESSION] spidsede blyanten på hendes bord.
+---
+[PROFESSION] mister knappen i sit værelse.
+[PROFESSION] mister knappen i hans værelse.
+[PROFESSION] mister knappen i hendes værelse.
+---
+[PROFESSION] mistede knappen i sit værelse.
+[PROFESSION] mistede knappen i hans værelse.
+[PROFESSION] mistede knappen i hendes værelse.
+---

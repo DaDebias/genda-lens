@@ -1,0 +1,81 @@
+site_name: GenDa Lens
+site_url: https://github.com/DaDebias/genda-lens
+repo_url: https://github.com/DaDebias/genda-lens
+docs_dir: 'docs/'
+
+theme:
+  name: 'material'
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  font:
+    text: Roboto
+  logo: 'img/logo.png'
+  language: en
+  palette:
+    - scheme: indigo
+      toggle:
+        icon: material/toggle-switch-off-outline 
+        name: Switch to dark mode
+      primary: deep purple
+      accent: indigo  
+    - scheme: slate 
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode    
+      primary: deep purple
+      accent: indigo
+plugins:
+- search
+- mkdocstrings:
+    handlers:
+      python:
+        type: python
+        root_package: genda_lens
+        docstring_style: google
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/DaDebias/genda-lens
+    
+copyright: Copyright &copy; 2023 Thea Rolskov Sloth & Astrid Sletten Rybner
+
+nav:
+  - Home: index.md
+  - Installation: installation.md
+  - User Guide:  
+    - Definitions: user_guide/metrics.md
+    - Language Modeling: user_guide/lm.md
+    - Coreference Resolution: user_guide/coref.md
+    - Named Entity Recogntion: user_guide/ner.md
+  - API: 
+    - api.md
+    - api_viz.md
+  - About: about.md
+
+markdown_extensions:
+  - tables
+  - attr_list
+  - md_in_html
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg

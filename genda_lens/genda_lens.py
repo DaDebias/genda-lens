@@ -395,7 +395,7 @@ class Visualizer:
                     ]
                 except:
                     points = [
-                        float(df.iloc[4, 0].split(" ")[0]),
+                        float(data.iloc[4, 0].split(" ")[0]),
                         float(data.iloc[4, 1].split(" ")[0]),
                         float(data.iloc[2, 0].split(" ")[0]),
                         float(data.iloc[4, 2].split(" ")[0]),

@@ -5,7 +5,7 @@ In GenDa Lens we find it relevant to map our gender bias metrics to the societal
 
 * **Underrepresentation**: if certain groups are underrepresented in a system
 
-
+If you want to know more about the harm categorization proposed by Crawford (2017), we suggest watching this [video](https://www.youtube.com/watch?v=fMym_BKWQzk&amp;t=840s&ab_channel=TheArtificialIntelligenceChannel).
 
 ### Gender
 Within the GenDa Lens framework we adopt the view that gender is a social construct that differentiates from sex [(Stanczak & Augenstein, 2021)](https://arxiv.org/pdf/2112.14168.pdf).
@@ -20,10 +20,11 @@ We operationalize gender bias at the level of group fairness.
 
 To assess whether group fairness is obtained between the male and female group, we adopt the predictive bias framework from [Shah et al. (2020)](https://aclanthology.org/2020.acl-main.468v2.pdf). 
 
-Following this we define gender bias in language models as instances where the distributions of predictions of a language model are mediated by gender. 
+Following this we define gender bias in language models as *error disparity* in model predictions mediated by gender. 
 
-Specifically we compare performance between two conditions (either a male and a female condition or a pro- and an anti-stereotypical condition.)
-This comparison is formalized using the Gender Effect Size (Gender ES), which can be used to how much better performance is in one condition.
+Specifically we compare performance between two conditions (either a male and a female condition or a pro- and an anti-stereotypical condition.) and investigate whetehr the the error distributions is mediated by the sensitive attribute of gender.
+
+This comparison is formalized using the Gender Effect Size (Gender ES), which can be used to how much better performance is in one condition compared to another.
 
 The Gender ES is defined as:
 
@@ -39,7 +40,7 @@ In this way, a positive Gender ES indicates the that there is an effect of gende
 
 * Gender ES = 2: performance is four times as good 
 
-* Gender ES = 3: performance is eight times as good 
+* Gender ES = 3: performance is eight times as good etc.
 
 
 ### Nuances of Bias

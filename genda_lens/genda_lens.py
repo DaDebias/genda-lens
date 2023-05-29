@@ -305,7 +305,7 @@ class Visualizer:
             data (df): detailed output from any of the tests.
             framework (str): choose between "ner", "dawinobias" or "abc".
             model_name (str): model name
-            task (str, optional): choose between "lm", "ner" or "coref" depending on which task the output is from.
+            task (str, optional): choose between "lm" or "coref" if the output is either from the dawinobias or abc framework.
         Returns:
             plot (plot): seaborn plot visualization.
 

@@ -2,7 +2,7 @@
 name = "genda-lens"
 version = "0.0.1"
 description = "A package for quantifying bias in Danish language models."
-authors = ["Astrid Rybner <astrid.rybner@hotmail.com>", "Thea Rolskov <thearollesloth@hotmail.com>"]
+authors = ["Rybner, Astrid. Rolskov, Thea <astrid.rybner@hotmail.com>"]
 packages = [{include = "genda_lens"}]
 license = "MIT"
 readme = "README.md"

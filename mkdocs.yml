@@ -50,8 +50,9 @@ copyright: Copyright &copy; 2023 Thea Rolskov Sloth & Astrid Sletten Rybner
 nav:
   - Home: index.md
   - Installation: installation.md
-  - User Guide:  
-    - Definitions: user_guide/metrics.md
+  - User Guide:
+    - Overview: user_guide/user_guide_intro.md   
+    - Definitions: user_guide/definitions.md
     - Language Modeling: user_guide/lm.md
     - Coreference Resolution: user_guide/coref.md
     - Named Entity Recogntion: user_guide/ner.md

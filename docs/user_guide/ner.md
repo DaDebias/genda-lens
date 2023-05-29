@@ -26,18 +26,18 @@ For the investigation of gender bias two augmentations of the DaNe test set are 
 NER performance is then evaluated with F1 scores. 
 
 ### Evaluation: Main Effect
-| Measured Harms:    | Possible Bias Sources: |
+| Possible Harms:    | Possible Bias Sources: |
 | ------------------ | ---------------------- |
-| some text          | some text              |
+| Underrepresentation| Selection Bias         |
 
 The overall effect of gender on this task is based on F1 scores for the femala and male augmentation respectively. 
 
 Specifically it is calculated as:
 
 ### Evaluation: Nuance
-| Measured Harms:    | Possible Bias Sources: |
+| Possible Harms:    | Possible Bias Sources: |
 | ------------------ | ---------------------- |
-| some text          | some text              |
+| Underrepresentation| Selection Bias         |
 
 For the detailed bias evaluation it is assessed whether a possible gender bias in the model interacts with a bias towards minorities. This is what is referred to as *intersectional bias* in the literature (see e.g. [Subramanian, S., Han, X., Baldwin, T., Cohn, T., & Frermann, L. (2021).](https://arxiv.org/pdf/2109.10441.pdf)). Specifically the following augmentations are made: 
 

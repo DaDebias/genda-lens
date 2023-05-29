@@ -1,7 +1,7 @@
 You can install GenDa Lens via pip from PyPI:
 
 ```bash
-pip install genda_lens
+pip install genda-lens
 ```
 
 or from [GitHub](https://github.com/DaDebias/genda-lens) using:

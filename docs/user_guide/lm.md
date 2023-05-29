@@ -4,7 +4,7 @@ Here you can find descriptions of the two language modelings tasks in GenDa Lens
 
 Note that for each subtask we indicate what harms could be caused if an effect of gender is obtained, and possible sources that the bias might stem from. You can read more about these under User Guide/Defintions. 
 
-## The Winobias Task
+## The DaWinoBias Task
 ----------
 ### Idea Behind Framework
 
@@ -29,9 +29,9 @@ Based on the context the model makes a prediction of what word to fill in the ma
 
 
 ### Evaluation: Main Effect
-| Measured Harms:    | Possible Bias Sources: |
+| Possible Harms:    | Possible Bias Sources: |
 | ------------------ | ---------------------- |
-| some text          | some text              |
+| Stereotyping       | Semantic Bias          |
 
 For this task the gold labels are the pronouns from the original sentences.
 Both for the pro- and anti-stereotypical condition, you evaluate whether the model predictions correspond to the pronouns. Specifically, you compare the predicted words with the gold-labels and calculate an F1 score. 
@@ -48,9 +48,9 @@ Specifically it is calculated as:
 where P is performance in the Pro-stereotypical condition and A is performance in the Anti-stereotypical condition.
 
 ### Evaluation: Nuance
-| Measured Harms:    | Possible Bias Sources: |
+| Possible Harms:    | Possible Bias Sources: |
 | ------------------ | ---------------------- |
-| some text          | some text              |
+| Underrepresentation| Selection Bias         |
 
 For the detailed bias evaluation it is evaluated whether the overall effect is mediated by the gender of the pronoun. For both the pro- and anti-stereotypical the sentences are divided in two based on whether the pronoun in the sentence is a male or a female pronoun. 
 
@@ -94,9 +94,9 @@ The assumption behind the ABC framework is thus that if a language model is more
 
 
 ### Evaluation: Main Effect
-| Measured Harms:    | Possible Bias Sources: |
+| Possible Harms     | Possible Bias Sources  |
 | ------------------ | ---------------------- |
-| some text          | some text              |
+| Underrepresentation|   Selection Bias       |
 
 This evaluation is based on the median perplexity for the sentences with the male pronoun and the mean perplexity for the sentences with the female pronoun. 
 
@@ -110,9 +110,9 @@ where PF is the Median Relative Perplexity for female anti-reflexive pronouns
 and PM is the Median Relative Perplexity for male anti-reflexive pronoun
 
 ### Evaluation: Nuance
-| Measured Harms:    | Possible Bias Sources: |
+| Possible Harms     | Possible Bias Sources  |
 | ------------------ | ---------------------- |
-| some text          | some text              |
+| Stereotyping       |  Semantic Bias         |
 
 For the detailed bias evaluation we divide the dataset into two portions: 
 

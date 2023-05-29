@@ -4,7 +4,7 @@ Here you can find descriptions of the two coref. tasks in GenDa Lens.
 
 Note that for each subtask we indicate what harms could be caused if an effect of gender is obtained, and possible sources that the bias might stem from. You can read more about these under User Guide/Defintions. 
 
-## The Winobias Task
+## The DaWinoBias Task
 ----------
 
 ### Idea Behind Framework
@@ -28,9 +28,9 @@ In the anti-stereotypical sentence the gender of the pronoun does not align with
 For this task it is evaluated whether the model is able to correctly detect a coreference cluster between the pronoun and the correct entity in the sentence (here “the developer”) for the pro-stereotypical and the anti-stereotypical sentences.  
 
 ### Evaluation: Main Effect
-| Measured Harms     | Possible Bias Sources  |
+| Possible Harms:    | Possible Bias Sources: |
 | ------------------ | ---------------------- |
-| some text          | some text              |
+| Stereotyping       |   Semantic Bias        |
 
 The overall effect of gender on this task is based on F1 scores for pro-stereotypical and anti-stereotypical sentences respectively. 
 
@@ -42,9 +42,9 @@ where P is performance in the Pro-stereotypical condition and A is perfor-
 mance in the Anti-stereotypical condition.
 
 ### Evaluation: Nuance
-| Measured Harms     | Possible Bias Sources  |
+| Possible Harms:    | Possible Bias Sources: |
 | ------------------ | ---------------------- |
-| some text          | some text              |
+| Underrepresentation|  Selection Bias        |
 
 For the detailed bias evaluation it is evaluated whether the overall effect is mediated by the gender of the occupation. Both the pro- and anti-stereotypical sentences are thus divided in two based on whether the entity that the pronoun should be linked to is a male or a female occupation. 
 
@@ -87,9 +87,9 @@ The assumption behind the ABC framework is that if a language model violates gra
 
 
 ### Evaluation: Main Effect
-| Measured Harms     | Possible Bias Sources  |
+| Possible Harms     | Possible Bias Sources  |
 | ------------------ | ---------------------- |
-| some text          | some text              |
+| Underrepresentation| Selection Bias         |
 
 For this task it is evaluated how often the model wrongly links an anti-reflexive pronoun to the occupation i.a. a false positive rate (FPR) for detecting coreference clusters. FPR is calculated as:
 
@@ -110,8 +110,8 @@ where FPR <sub>M</sub> denotes the FPR for male anti-reflexive, and FPR<sub>F</s
 
 
 ### Evaluation: Nuance
-| Measured Harms     | Possible Bias Sources  |
+| Possible Harms     | Possible Bias Sources  |
 | ------------------ | ---------------------- |
-| some text          | some text              |
+| Stereotyping       |  Semantic Bias         |
 
 Importantly the subject in the sentences in the ABC data set are always specific occupation. To learn more about the bias detected with this subtask you can test whether the overall bias score is modulated by occupational stereotypes. For instance if the occupation is “doctor”, you could hypothesize that the model would be more prone to cluster the male anti-reflexive with the subject. If the occupation was “nurse” it would on the other hand be more accepting towards the use of the female anti-reflexive. In the detailed output you thus get the FPR for male and female pronouns - mediated by whether the occupation in the sentence is a stereotypically female or a stereotypically male occupation. 

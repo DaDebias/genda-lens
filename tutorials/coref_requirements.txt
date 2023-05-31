@@ -1,0 +1,12 @@
+#-U pip setuptools wheel
+#-U spacy
+#python -m spacy download da_core_news_lg
+torch
+allennlp
+danlp
+nltk==3.8.1
+gensim==4.3.1
+overrides==3.1.0
+scikit-learn==1.2.2
+fairlearn
+seaborn

@@ -18,3 +18,4 @@ Here you can also find a section on the *defintions* of harm, gender and bias th
 
 :hugging: Note that for NER and Language Modeling, the GenDa Lens evaluator is integrated with Hugging Face.
 
+The package is can be run on python >=3.9 due to the dependency on the newesr version of the DaCy library (2.7.0). 

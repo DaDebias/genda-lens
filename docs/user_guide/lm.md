@@ -40,8 +40,6 @@ You do this both for the pro- and anti-stereotypical condition. The overall effe
 
 Specifically it is calculated as:
 
-Specifically it is calculated as:
-
 ![wino](../img/wino.png)
 
 

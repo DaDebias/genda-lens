@@ -16,13 +16,9 @@ Due to the nature of the implemented tests, we formalize gender as a binary cate
 
 
 ### Gender Bias
-We operationalize gender bias at the level of group fairness. 
+We define gender bias as a systematic difference in model predictions between males and females. Contrarily, if no systematic difference exists across groups, we say that there is group fairness.
 
-To assess whether group fairness is obtained between the male and female group, we adopt the predictive bias framework from [Shah et al. (2020)](https://aclanthology.org/2020.acl-main.468v2.pdf). 
-
-Following this we define gender bias in language models as *error disparity* in model predictions mediated by gender. 
-
-Specifically we compare performance between two conditions (either a male and a female condition or a pro- and an anti-stereotypical condition.) and investigate whetehr the the error distributions is mediated by the sensitive attribute of gender.
+To assess whether group fairness is obtained, we compare performance between two conditions (either a male and a female condition or a pro- and an anti-stereotypical condition.) and investigate whether the predictive distributions is mediated by the sensitive attribute of gender.
 
 This comparison is formalized using the Gender Effect Size (Gender ES), which can be used to how much better performance is in one condition compared to another.
 

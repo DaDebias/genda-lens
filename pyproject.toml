@@ -1,8 +1,8 @@
 [tool.poetry]
 name = "genda-lens"
-version = "0.0.2"
+version = "0.0.3"
 description = "A package for quantifying bias in Danish language models."
-authors = ["Rybner, Astrid. Rolskov, Thea <astrid.rybner@hotmail.com>"]
+authors = ["Astrid Rybner, Thea Rolskov <astrid.rybner@hotmail.com>"]
 packages = [{include = "genda_lens"}]
 license = "MIT"
 readme = "README.md"

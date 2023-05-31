@@ -1,4 +1,5 @@
 import warnings
+
 warnings.simplefilter("ignore", FutureWarning)
 
 
@@ -10,7 +11,6 @@ class Evaluator:
         print(
             f"[INFO] You can test {self.model_name} by running Evaluator.evaluate_<model type>()"
         )
-
 
     def evaluate_pretrained(
         self, test, mask_token=None, start_token=None, sep_token=None
@@ -119,11 +119,8 @@ class Evaluator:
 
         else:
             raise ValueError("Not a valid test. Choose between 'abc' and 'dawinobias'")
-        print(
-            "[INFO] output(list) generated. Access condensed output with output[0], and detailed output with with output[1]."
-        )
+        print("[INFO] Output generated.")
         return results
-
 
     def evaluate_ner(self, n):
         """Evaluate gender bias in a NER model.
@@ -185,9 +182,7 @@ class Evaluator:
         output = eval_model_augmentation(
             model, self.model_name, str(n), augmenters, testdata
         )
-        print(
-            "[INFO] output(list) generated. Access condensed output with output[0], and detailed output with with output[1]."
-        )
+        print("[INFO] Output generated.")
         return output
 
     def evaluate_coref(self, test, model):
@@ -283,9 +278,7 @@ class Evaluator:
             )
         else:
             raise ValueError("Not a valid test. Choose between 'abc' and 'dawinobias'")
-        print(
-            "[INFO] output(list) generated. Access condensed output with output[0], and detailed output with with output[1]."
-        )
+        print("[INFO] Output generated.")
         return results
 
 

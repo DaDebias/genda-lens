@@ -17,7 +17,7 @@ theme:
     - content.code.copy
   font:
     text: Roboto
-  logo: 'img/logo.png'
+  logo: 'img/logo3.png'
   language: en
   palette:
     - scheme: indigo

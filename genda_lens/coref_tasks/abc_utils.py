@@ -21,6 +21,7 @@ import pandas as pd
 import spacy
 import torch
 from sklearn.metrics import classification_report, f1_score
+import progressbar
 
 
 def run_abc_coref(coref_model):
@@ -141,14 +142,6 @@ def get_positive_preds(chunk_preds):
         elif label == labels_anti_ref:
             # get the false positive rate for the current label and prediction
             res[f"fpr_{tags[idx]}"] = flm.false_positive_rate(label, pred, pos_label=1)
-
-    # print(f"""
-    # Total positive prediction of coreference clusters:
-
-    # Female: {np.sum(fem)}
-    # Male: {np.sum(male)}
-    # Reflexive: {np.sum(ref)}
-    # Total predictions:  {len(fem)} {len(male)} {len(ref)}""")
 
     return res
 

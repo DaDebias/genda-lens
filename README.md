@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://dadebias.github.io/genda-lens/">
-    <img src="docs/img/logo2.png" alt="Logo" width=350 height=150>
+    <img src="docs/img/logo3.png" alt="Logo" width=350 height=150>
   </a>
   <h1 align="center">The GenDa Lens</h1> 
   <h3 align="center">Quantifying Gender Bias in Danish language models</h3> 

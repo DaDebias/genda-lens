@@ -26,6 +26,10 @@ from sklearn.metrics import classification_report, f1_score
 import progressbar
 
 
+def logratio(x: float, y: float):
+    return round(math.log2(x / y), 2)
+
+
 def load_texts(filepath):
     """
     load DaWinoBias texts - and shuffle data

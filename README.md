@@ -4,7 +4,7 @@
     <img src="docs/img/logo3.png" alt="Logo" width=250 height=250>
   </a>
   <h1 align="center">The GenDa Lens</h1> 
-  <h3 align="center">Quantifying Gender Bias in Danish language models</h3> 
+  <h3 align="center">Quantifying Gender Bias in Danish Language Models</h3> 
   <p align="center">
     Thea Rolskov Sloth & Astrid Sletten Rybner
     <br />

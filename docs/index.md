@@ -1,6 +1,6 @@
 ----------
 
-![Screenshot](img/logo2.png){ align=right, width="150"}
+![Screenshot](img/logo.png){ align=right, width="500"}
 
 A package for investigating gender bias in Danish language models within the following domains:  
 

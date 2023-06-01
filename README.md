@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://dadebias.github.io/genda-lens/">
-    <img src="docs/img/logo.png" alt="Logo" width=150 height=150>
+    <img src="docs/img/logo.png" alt="Logo" width=250 height=150>
   </a>
   
   <h1 align="center">The GenDa Lens: </h1>
